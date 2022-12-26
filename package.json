@@ -10,6 +10,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
-
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-babel": "^6.0.3",
+    "rollup-plugin-img": "^1.1.0",
+    "rollup-plugin-serve": "^2.0.2",
+    "rollup-plugin-styles": "^4.0.0"
+  }
 }
